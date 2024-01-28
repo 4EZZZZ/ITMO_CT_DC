@@ -8,8 +8,9 @@
 
 Открываем CMD
 
+```
 wsl --update
-
+```
 wsl --shutdown
 
 Закрываем CMD
