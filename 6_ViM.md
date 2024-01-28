@@ -1,17 +1,29 @@
 ![Task0](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task0.png)
 ## Решение task 0:
 ```
-
+?"
+Enter
+i
+hello vim
+// 13/50 нажатий
 ```
 ![Task1](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task1.png)
 ## Решение task 1:
 ```
-
+44G
+Enter
+d24d
+// 7/92 нажатий
 ```
 ![Task2](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task2.png)
 ## Решение task 2:
 ```
-
+?)
+Enter
+i
+->
+;
+// 6/6 нажатий
 ```
 ![Task3](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task3.png)
 ## Решение task 3:
@@ -41,17 +53,26 @@
 ![Task8](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task8.png)
 ## Решение task 8:
 ```
-
+:%s/Emacs/Vim/g
+Enter
+// 16/40 нажатий
 ```
 ![Task9](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task9.png)
 ## Решение task 9:
 ```
-
+?vim
+Enter
+yy
+G
+p
+// 9/9 нажатий
 ```
 ![Task10](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task10.png)
 ## Решение task 10:
 ```
-
+:%s/John\|James\|Jacob/J/g
+Enter
+// 27/30 нажатий
 ```
 ![Task11](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task11.png)
 ## Решение task 11:
@@ -71,7 +92,10 @@
 ![Task14](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task14.png)
 ## Решение task 14:
 ```
-
+?4
+Enter
+Ctrl+Shift+A
+// 4/4 нажатий
 ```
 ![Task15](https://github.com/4EZZZZ/ITMO_CT_DC/blob/main/ViM_pics/task15.png)
 ## Решение task 15:
